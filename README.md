@@ -5,7 +5,11 @@
 
 This is a basic Pictochat-themed chatroom widget for a website.
 
-I made this for my personal website, so it may be difficult to use in its current state as I am halfway done refactoring it.
+I made this for my personal website, so it may be difficult to use in its current state as it is half refactored.
+
+Basic support for mutliple rooms is supported. Supply your desired room name in the query string.
+
+`https://yourcooldomain.info/chat?room=charoom1`
 
 ## Usage
 
